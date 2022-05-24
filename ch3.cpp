@@ -1,4 +1,4 @@
-//chapter 3 - 실습과제3
+//chapter 3
 
 #include <iostream>
 
